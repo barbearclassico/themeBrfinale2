@@ -776,7 +776,8 @@ h3.catbg, h3.catbg2, h3.titlebg, h4.titlebg, h4.catbg
 	overflow: hidden;
 	height: 31px;
 	line-height: 31px;
-	font-size: 1.1em;
+/* 	font-size: 1.1em;  */
+ 	font-size: 0.8em;  
 	font-weight: bold;
 }
 h3.catbg a:link, h3.catbg a:visited, h4.catbg a:link, h4.catbg a:visited, h3.catbg, .table_list tbody.header td, .table_list tbody.header td a
