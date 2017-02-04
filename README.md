@@ -1,11 +1,11 @@
 BR Finale
 =========
 
-[link](http://custom.simplemachines.org/themes/index.php?lemma=2393)
+[BR Finale theme download page](http://custom.simplemachines.org/themes/index.php?lemma=2393)
 
 
-Description
------------
+Author
+------
 
     Name: BR Finale
     Author: Crip 
@@ -17,3 +17,13 @@ Description
     Color style: Dark 
     Tableless layout: Yes
     Notifications: Notify me of updates.
+
+
+This Project
+============
+
+The goal is to adjust the theme:
+* to comply the forum design; 
+* to offer a responsive behaviour;
+* create a new SMF install package in order to not mess with the original theme.
+
